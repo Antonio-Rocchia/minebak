@@ -15,7 +15,7 @@ Minebak tries to be [human centric and discoverable](https://clig.dev/) such tha
 ## Why this tool
 Me and my friends used to play a lot of minecraft worlds and everytime we got bored we always forgot to backup the world to play in the future.
 
-That's because using Multicraft's suggestend method, FileZilla, is really tedious in my opinion. This tool helped us to enjoy our minecraft world for as long as we want.
+That's because using Multicraft's suggestend method, FileZilla, is really tedious in my opinion. This tool helps us to enjoy our minecraft world for as long as we want.
 
 A big win for me was seeing my friends who have never  used a terminal use this tool almost weekly to get a copy of our world.
 
@@ -114,4 +114,4 @@ $ ./minebak WorldName \
       --with-timestamp
 ```
 ## Licence
-This project follows the MIT licence, see LICENSE.txt
+This project follows the MIT licence, see LICENSE
