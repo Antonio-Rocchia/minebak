@@ -17,7 +17,7 @@ Me and my friends used to play a lot of minecraft worlds and everytime we got bo
 
 That's because using Multicraft's suggestend method, FileZilla, is really tedious in my opinion. This tool helps us to enjoy our minecraft world for as long as we want.
 
-A big win for me was seeing my friends who have never  used a terminal use this tool almost weekly to get a copy of our world.
+A big win for me was seeing my friends who have never used a terminal use this tool almost weekly to get a copy of our world. I know that you can achieve similar result using wget or even curl but minebak can guide you interactively, for example it could be expanded to help you find your world even if you don't directly know its name.
 
 ## Features
 
